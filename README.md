@@ -1,2 +1,2 @@
-# CompfestProject
+# Compfest-Project
 For Compfest Competition
